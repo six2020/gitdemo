@@ -11,3 +11,7 @@ var b = 2;
 
 console.log(a + b);
 
+console.log(999)
+
+console.log(000)
+
